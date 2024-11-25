@@ -1,8 +1,17 @@
-<h1>Portfolio Task</h1>
-
-Frameworks: React, Bootstrap 
+<h1>Portfolio</h1>
+Showcases your Skills and Experiences
 <br/>
-Animations: framer-motion
+<br/>
+Frameworks: 
+<br/>
+-> React
+<br/>
+-> Bootstrap 
+<br/>
+<br/>
+Animations: 
+<br/>
+-> framer-motion
 <br/>
 <br/>
 To Run App:
