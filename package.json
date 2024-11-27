@@ -1,5 +1,6 @@
 {
   "name": "portfolio-task",
+  "homepage": "https://github.com/dineshkumar6688/portfolio-task",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,10 +8,13 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist"
   },
   "dependencies": {
     "framer-motion": "^11.11.17",
+    "gh-pages": "^6.2.0",
     "jquery": "^3.7.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
