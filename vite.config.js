@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   // assetsInclude: ["**/*.html"],
-  base:'/portfolio-task/'
+  base:'/portfolio-task'
 });
